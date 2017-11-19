@@ -1,2 +1,2 @@
 # Alphabet
-Beliebigen Kleinbuchstabe eingeben, dann wird es bis zur diesem Buchstaben ausgegeben + Nummerierung
+Beliebigen Kleinbuchstabe eingeben, dann wird es bis zu diesem Buchstaben ausgegeben + Nummerierung
